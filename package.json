@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "node": "^25.7.0",
+    "pg": "^8.18.0",
+    "psql": "^0.0.1",
+    "typescript": "^5.9.3"
+  }
+}
